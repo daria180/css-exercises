@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgba(241, 113, 113, 0.708);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#firstID {
+    color:rgb(51, 51, 237);
+    font-size: 36px;
+}
+.changeSize {
+    font-size: 24px;
+}
+#secondID {
+    background-color: rgba(34, 209, 34, 0.539);
+    font-weight: bold;
+}
