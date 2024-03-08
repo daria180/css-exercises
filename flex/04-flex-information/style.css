@@ -6,13 +6,21 @@ img {
   width: 100px;
   height: 100px;
 }
-
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
-
-/* do not edit this footer */
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin: 32px;
+  text-align: center;
+}
+.plant-item {
+  max-width: 200px
+}
 .footer {
   position: fixed;
   bottom: 0;
